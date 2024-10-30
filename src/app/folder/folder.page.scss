@@ -1,0 +1,30 @@
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+ion-button.back-button {
+  display: flex;
+  align-items: center;
+  width: auto;
+  margin: 8px;
+  --ion-color-base: transparent;
+}
+
+ion-icon {
+  font-size: 18px;
+  color: #4a2f1d;
+}
+
+.back-button {
+  color: #4a2f1d;
+  font-weight: 500;
+}
+
+ion-button.kenalan-button {
+  --background: #d2b48c;
+  color: white;
+  font-weight: 500;
+}
